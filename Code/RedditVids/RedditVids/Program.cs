@@ -24,7 +24,7 @@ namespace RedditVids
                         int x = htmlCode.IndexOf("https://v.redd.it/");
                         if (x == -1)
                             throw new Exception("Error finding the video link. Try again.");
-                        result = $"https://v.redd.it/{htmlCode[(x + 18)..].Substring(0, htmlCode[(x + 18)..].IndexOf('/'))}/DASH_720.mp4";
+                        result = $"https://v.redd.it/{htmlCode[(x + 18)..].Substring(0, htmlCode[(x + 18)..].IndexOf('/'))}/DASH_240.mp4";
                     }
                     Console.Write("Your video link is: ");
                     Console.WriteLine(result);
