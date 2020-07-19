@@ -1,0 +1,12 @@
+C:\Users\psjob\Desktop\redditVids\RedditVids\RedditVids\bin\Release\netcoreapp3.1\RedditVids.exe
+C:\Users\psjob\Desktop\redditVids\RedditVids\RedditVids\bin\Release\netcoreapp3.1\RedditVids.deps.json
+C:\Users\psjob\Desktop\redditVids\RedditVids\RedditVids\bin\Release\netcoreapp3.1\RedditVids.runtimeconfig.json
+C:\Users\psjob\Desktop\redditVids\RedditVids\RedditVids\bin\Release\netcoreapp3.1\RedditVids.runtimeconfig.dev.json
+C:\Users\psjob\Desktop\redditVids\RedditVids\RedditVids\bin\Release\netcoreapp3.1\RedditVids.dll
+C:\Users\psjob\Desktop\redditVids\RedditVids\RedditVids\bin\Release\netcoreapp3.1\RedditVids.pdb
+C:\Users\psjob\Desktop\redditVids\RedditVids\RedditVids\obj\Release\netcoreapp3.1\RedditVids.AssemblyInfoInputs.cache
+C:\Users\psjob\Desktop\redditVids\RedditVids\RedditVids\obj\Release\netcoreapp3.1\RedditVids.AssemblyInfo.cs
+C:\Users\psjob\Desktop\redditVids\RedditVids\RedditVids\obj\Release\netcoreapp3.1\RedditVids.csproj.CoreCompileInputs.cache
+C:\Users\psjob\Desktop\redditVids\RedditVids\RedditVids\obj\Release\netcoreapp3.1\RedditVids.dll
+C:\Users\psjob\Desktop\redditVids\RedditVids\RedditVids\obj\Release\netcoreapp3.1\RedditVids.pdb
+C:\Users\psjob\Desktop\redditVids\RedditVids\RedditVids\obj\Release\netcoreapp3.1\RedditVids.genruntimeconfig.cache
